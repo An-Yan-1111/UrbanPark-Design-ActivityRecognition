@@ -53,8 +53,7 @@ The framework was evaluated on three complementary datasets:
 
 ---
 
-**key benefits of urban park design optimization with Activity Recognition, written in small points:
-
+**key benefits of urban park design optimization with Activity Recognition, written in small points:**
 -🧍 Human-Centric Planning – Aligns park layout with actual user behaviors and activities.
 -📊 Data-Driven Decisions – Uses real-time sensor, video, and trajectory data for evidence-based design.
 -🌿 Efficient Space Utilization – Maximizes functional use of walkways, play areas, and resting zones.
